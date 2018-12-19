@@ -1,2 +1,2 @@
-# External SQLite Example with Recyclerview 
+# External SQLite Example
 External SQLite Example with Recyclerview
