@@ -1,3 +1,3 @@
 # External SQLite Example
 External SQLite Example with Recyclerview
-<u> Erkan Eroğlu </u>
+<html><body><i> Erkan Eroğlu </i></body></html>
